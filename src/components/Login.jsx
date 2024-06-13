@@ -9,7 +9,7 @@ const Login = () => {
             <img  class="img-fluid"
           src="https://clevertap.com/wp-content/uploads/2019/07/FTUE-blog-header1.png"  width="100%"/>
           
-       <div className="container1">
+       <div className="container1 ">
             <div className="row g-3">
                 <div className="col col-6 col-sm-6 col-md-6 col-xl-6 col-xxl-6 ">
                     <label htmlFor="" className="label form-label">Enter Email Id</label>
