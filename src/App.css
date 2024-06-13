@@ -7,6 +7,14 @@
   pointer-events: none;
 }
 
+.container1 {
+  background: transparent;
+  position: absolute;
+  top: 40%; left: 2%;
+  text-align: left;
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
